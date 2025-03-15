@@ -1,16 +1,16 @@
 const games = [
     { 
-        title: "After Effects v24.5.0.052", 
+        title: "Adobe After Effects v24.5.0.052", 
         image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/640px-Adobe_After_Effects_CC_icon.svg.png",
         url: "https://pixeldrain.com/api/file/4FMZuktL?download"
     },
     { 
-        title: "Photoshop 2024 v25.9.1.626", 
+        title: "Adobe Photoshop 2024 v25.9.1.626", 
         image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png",
         url: "https://pixeldrain.com/api/file/vCy7qcyB?download"
     },
     { 
-        title: "Premiere Pro 2024 v.24.3", 
+        title: "Adobe Premiere Pro 2024 v.24.3", 
         image: "https://paas-file-pro.igv.com/shop/64d8f560438ce6523ecf9e56.png",
         url: "https://pixeldrain.com/api/file/aN5mGXWk?download"
     },
