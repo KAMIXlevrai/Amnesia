@@ -39,7 +39,7 @@ body::before {
 
 /* ✅ Effet lumineux sur le titre */
 h1 {
-    font-size: 4rem;
+    font-size: 5rem;
     margin-bottom: 20px;
     text-transform: uppercase;
     color: #9c62d3;
