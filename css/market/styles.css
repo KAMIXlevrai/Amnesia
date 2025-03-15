@@ -70,6 +70,16 @@ h1 {
     box-shadow: 0px 0px 15px rgba(138, 43, 226, 0.8);
 }
 
+#warning {
+    font-size: 1.5rem;
+    color: crimson;
+    animation: fadeIn 1.5s ease-in-out;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(138, 43, 226, 0.8);
+}
+
 /* ✅ Effet visuel sur les cartes de jeux */
 .container {
     display: grid;
