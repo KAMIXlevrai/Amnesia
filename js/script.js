@@ -40,9 +40,9 @@ const games = [
         url: "https://pixeldrain.com/api/file/zsXPx6uS?download"
     },
     { 
-        title: "Fortnite", 
-        image: "https://upload.wikimedia.org/wikipedia/en/a/a7/Fortnite_Cover_Art.png",
-        url: "https://www.epicgames.com/fortnite"
+        title: "Adobe InDesign 2024", 
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/1200px-Adobe_InDesign_CC_icon.svg.png",
+        url: "https://pixeldrain.com/api/file/aeRETgBe?download"
     },
     { 
         title: "Zelda: Breath of the Wild", 
