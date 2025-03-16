@@ -1,6 +1,6 @@
 const games = [
     { 
-        title: "Adobe After Effects v24.5.0.052", 
+        title: "Adobe After Effects 2024 v24.5.0.052", 
         image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/640px-Adobe_After_Effects_CC_icon.svg.png",
         url: "https://pixeldrain.com/api/file/4FMZuktL?download"
     },
@@ -10,12 +10,12 @@ const games = [
         url: "https://pixeldrain.com/api/file/vCy7qcyB?download"
     },
     { 
-        title: "Adobe Premiere Pro 2024 v.24.3", 
+        title: "Adobe Premiere Pro 2024 v24.3", 
         image: "https://paas-file-pro.igv.com/shop/64d8f560438ce6523ecf9e56.png",
         url: "https://pixeldrain.com/api/file/aN5mGXWk?download"
     },
     { 
-        title: "Wondershare Filmora 13.3.12.7152", 
+        title: "Wondershare Filmora 13 v13.3.12.7152", 
         image: "https://cdn.webandseo.fr/wp-content/uploads/2024/12/filmora-logo-1.png",
         url: "https://pixeldrain.com/api/file/y9CcbFKT?download"
     },
@@ -35,7 +35,7 @@ const games = [
         url: "https://pixeldrain.com/api/file/34oXsoro?download"
     },
     { 
-        title: "MAGIX VEGAS Pro v21", 
+        title: "Sony VEGAS Pro v21", 
         image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Vegas_Pro_21_logo.svg/1200px-Vegas_Pro_21_logo.svg.png",
         url: "https://pixeldrain.com/api/file/zsXPx6uS?download"
     },
@@ -45,9 +45,9 @@ const games = [
         url: "https://pixeldrain.com/api/file/aeRETgBe?download"
     },
     { 
-        title: "Zelda: Breath of the Wild", 
-        image: "https://upload.wikimedia.org/wikipedia/en/6/60/The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
-        url: "https://www.nintendo.com/store/products/the-legend-of-zelda-breath-of-the-wild-switch/"
+        title: "SoundPad Pro", 
+        image: "https://cdn2.steamgriddb.com/icon_thumb/3aa67d197dc70446f36ddbd2fd537d7d.png",
+        url: "https://pixeldrain.com/api/file/kaj6E8Lg?download"
     },
     { 
         title: "League of Legends", 
