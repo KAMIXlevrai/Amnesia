@@ -5,14 +5,14 @@ const games = [
     { title: "Wondershare Filmora 13 v13.3.12.7152", image: "https://cdn.webandseo.fr/wp-content/uploads/2024/12/filmora-logo-1.png", url: "https://pixeldrain.com/api/file/y9CcbFKT?download" },
     { title: "FL Studio 20.9.2 Producer Edition", image: "https://www.pugetsystems.com/wp-content/uploads/2023/02/FL-Studio-Logo-Icon.png?wsr", url: "https://pixeldrain.com/api/file/QjuZ4A56?download" },
     { title: "Adobe Illustrator CC 2020", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png", url: "https://pixeldrain.com/api/file/9RBPbKW2?download" },
-    { title: "Topaz Video AI Pro 6.1.0", image: "https://cdn-tlc.01net.com/h20PLMJ48fVlDFOV7UsMVWSkpdl5yqctPLoAEpGG.png", url: "https://pixeldrain.com/api/file/34oXsoro?download" },
+    { title: "Topaz Video AI Pro v6.1.0", image: "https://cdn-tlc.01net.com/h20PLMJ48fVlDFOV7UsMVWSkpdl5yqctPLoAEpGG.png", url: "https://pixeldrain.com/api/file/34oXsoro?download" },
     { title: "Sony VEGAS Pro v21", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Vegas_Pro_21_logo.svg/1200px-Vegas_Pro_21_logo.svg.png", url: "https://pixeldrain.com/api/file/zsXPx6uS?download" },
     { title: "Adobe InDesign 2024", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/1200px-Adobe_InDesign_CC_icon.svg.png", url: "https://pixeldrain.com/api/file/aeRETgBe?download" },
     { title: "SoundPad Pro", image: "https://cdn2.steamgriddb.com/icon_thumb/3aa67d197dc70446f36ddbd2fd537d7d.png", url: "https://pixeldrain.com/api/file/kaj6E8Lg?download" },
     { title: "Adobe Illustrator 2024", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png", url: "https://pixeldrain.com/api/file/nm8BBF5h?download" },
     { title: "Adobe Acrobat", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Adobe_Acrobat_DC_logo_2020.svg/800px-Adobe_Acrobat_DC_logo_2020.svg.png", url: "https://pixeldrain.com/api/file/Cv81uCEQ?download" },
-    { title: "Blender 3D 4.0", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2048px-Blender_logo_no_text.svg.png", url: "https://pixeldrain.com/api/file/Blender3D?download" },
-    { title: "DaVinci Resolve 18", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DaVinci_Resolve_17_logo.svg/1200px-DaVinci_Resolve_17_logo.svg.png", url: "https://pixeldrain.com/api/file/DaVinciResolve?download" }
+    { title: "DaVinci Resolve Studio v18.6.6.0007", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/DaVinci_Resolve_Studio.png/640px-DaVinci_Resolve_Studio.png", url: "https://pixeldrain.com/api/file/QpEXWxh8?download" },
+    { title: "Adobe Animate 2024 v24.0", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Adobe_Animate_CC_icon_%282020%29.svg/1200px-Adobe_Animate_CC_icon_%282020%29.svg.png", url: "https://pixeldrain.com/api/file/CCUDf5SX?download" }
 ];
 
 let currentPage = 0;
