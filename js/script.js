@@ -12,7 +12,8 @@ const games = [
     { title: "Adobe Illustrator 2024", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png", url: "https://pixeldrain.com/api/file/nm8BBF5h?download" },
     { title: "Adobe Acrobat", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Adobe_Acrobat_DC_logo_2020.svg/800px-Adobe_Acrobat_DC_logo_2020.svg.png", url: "https://pixeldrain.com/api/file/Cv81uCEQ?download" },
     { title: "DaVinci Resolve Studio v18.6.6.0007", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/DaVinci_Resolve_Studio.png/640px-DaVinci_Resolve_Studio.png", url: "https://pixeldrain.com/api/file/QpEXWxh8?download" },
-    { title: "Adobe Animate 2024 v24.0", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Adobe_Animate_CC_icon_%282020%29.svg/1200px-Adobe_Animate_CC_icon_%282020%29.svg.png", url: "https://pixeldrain.com/api/file/CCUDf5SX?download" }
+    { title: "Adobe Animate 2024 v24.0", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Adobe_Animate_CC_icon_%282020%29.svg/1200px-Adobe_Animate_CC_icon_%282020%29.svg.png", url: "https://pixeldrain.com/api/file/CCUDf5SX?download" },
+    { title: "Wallpaper Engine v2.1.32", image: "https://play-lh.googleusercontent.com/MumkEpSL7dj16Rt_JfqgKPmMhaWlBhQN5HD2sxNpCgKhUEiIkfcktW_pllWM3wfKeQ=w240-h480-rw", url: "https://pixeldrain.com/api/file/ZcCSz5EX?download" }
 ];
 
 let currentPage = 0;
